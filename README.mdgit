@@ -1,0 +1,30 @@
+# Calculator (PyQt6)
+
+A simple calculator application built with Python and PyQt6.
+
+## Features
+- Basic arithmetic: +, -, *, /  
+- Parentheses support  
+- Clear and backspace buttons  
+- Dark theme GUI with custom icon  
+
+## Requirements
+- Python 3.10+  
+- PyQt6  
+- Pillow (for icon support)
+
+Install dependencies with:
+
+pip install PyQt6 Pillow
+
+## Running
+1. **From source**:  
+
+python calculator.py
+
+2. **Using pre-built executable (Windows)**:  
+Download the `.exe` file from [Releases](link-to-release) and run it directly.
+
+## Notes
+- If Windows shows a security warning when running the exe, click **More info → Run anyway**.  
+- The program works standalone; no additional files are required besides the icon.
